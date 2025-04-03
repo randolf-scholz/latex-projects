@@ -1,0 +1,15 @@
+[submodule "latex-see"]
+	path = latex-see
+	url = https://github.com/randolf-scholz/latex-see.git
+[submodule "latex-mathoperators"]
+	path = latex-mathoperators
+	url = https://github.com/randolf-scholz/latex-mathoperators.git
+[submodule "latex-hooks"]
+	path = latex-hooks
+	url = https://github.com/randolf-scholz/latex-hooks.git
+[submodule "latex-unicode"]
+	path = latex-unicode
+	url = https://github.com/randolf-scholz/latex-unicode.git
+[submodule "latex-package-template"]
+	path = latex-package-template
+	url = https://github.com/randolf-scholz/latex-package-template.git
